@@ -1,6 +1,6 @@
 <!-- Personal profile banner-->
 <h1 align="center">
-    <img src="https://www.canva.com/design/DAGYUsp48iE/ajrTK375bW9E4QWKl6izzw/edit?utm_content=DAGYUsp48iE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+    <img src="https://www.canva.com/design/DAGYUsp48iE/KfAyY-I5ld02x8JxdiJ8jA/watch?utm_content=DAGYUsp48iE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h02e4e1b64b"/>
 </h1>
 
 <!-- Typing svg presentation-->
