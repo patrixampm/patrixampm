@@ -5,7 +5,7 @@
 
 <!-- Typing svg presentation-->
 <div align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://readme-typing-svg.herokuapp.com/">
         <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Orbitron&size=25&letterSpacing=.2rem&duration=6000&color=E027F7&center=true&lines=Hi+there!+I'm+Patrick" alt="Typing SVG" />
     </a>
 </div>
