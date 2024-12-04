@@ -154,6 +154,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
                 alt="Udemy"></a>
             <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
                 alt="ChatGpt">
+            <img src="images/lemoncode_badge.png"
+                alt="Lemoncode badge">
         </td>
     </tr>
 </table>
