@@ -1,17 +1,15 @@
 <!-- Personal profile banner-->
 <h1 align="center">
-    <img src="https://www.canva.com/design/DAGYUsp48iE/KfAyY-I5ld02x8JxdiJ8jA/watch?utm_content=DAGYUsp48iE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h02e4e1b64b"/>
+    <img src="images/github_banner.gif"/>
 </h1>
 
 <!-- Typing svg presentation-->
 <div align="center">
-    <a href="https://readme-typing-svg.herokuapp.com/">
-        <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Orbitron&size=25&letterSpacing=.2rem&duration=6000&color=E027F7&center=true&lines=Hi+there!+I'm+Patrick" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&letterSpacing=.2rem&duration=6000&pause=1000&color=E027F7&center=true&width=435&lines=Hi+there!+I'm+Patrick" alt="Typing SVG" /></a>
 </div>
 <div align="center" >
     <a href="https://linkedin.com/in/patrick-alan-peckham"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/ana--cast-white?style=for-the-badge&logo=42&logoColor=black"></a>
+    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Patrick--Peckham-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div><br>
 
 <!-- About me code snippet in C-->
